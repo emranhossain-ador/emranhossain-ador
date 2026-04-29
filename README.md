@@ -13,6 +13,7 @@
 I’m a web developer specializing in PHP and Laravel, with experience in Livewire, REST APIs, and modern frontend tools like Tailwind CSS and JavaScript. I enjoy building practical systems and continuously improving performance, design, and user experience.
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/emranhossain.ador) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emran-hossain-ador) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emranhossain.ador@gmail.com) 
 
@@ -24,7 +25,7 @@ I’m a web developer specializing in PHP and Laravel, with experience in Livewi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossain-ador&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=emranhossain-ador&icon=0&color=0)](https://visitcount.itsvg.in)
