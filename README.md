@@ -1,18 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Emran
 
+- 🔭 I’m currently working on real-world Laravel projects
+- 🌱 I’m currently learning advanced system design & performance optimisation
+- 👯 I’m looking to collaborate on Laravel & Livewire based projects
+- 🤔 I’m looking for help with scaling applications & performance tuning
+- 💬 Ask me about Laravel, Livewire, REST APIs, and web development
+- ⚡ Fun fact: Love building dynamic apps using Livewire
+- 🎯 Goal: Build powerful & user-friendly digital solutions
 
-**emranhossain-ador/emranhossain-ador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 # 💫 About Me:
 I’m a web developer specializing in PHP and Laravel, with experience in Livewire, REST APIs, and modern frontend tools like Tailwind CSS and JavaScript. I enjoy building practical systems and continuously improving performance, design, and user experience.
